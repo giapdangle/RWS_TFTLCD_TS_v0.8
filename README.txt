@@ -19,6 +19,6 @@ and depends on. It is in no way intended to convey any affiliation
 whatsoever with Adafruit or imply that Adafruit supports this
 library in any way.
 
-Written by Rick Sellens
+Written by Rick Sellens, first commit January 18, 2012
 This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License
  
